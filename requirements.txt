@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.14.1+cu130
+transformers==5.20.2
+gradio==6.30.0
+pandas==2.3.3
